@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  font-family: 'segoe ui';
+  background-color: #011526;
+}
+
+
+main{
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+}
