@@ -151,19 +151,29 @@
     color: black;
     display: flex;
     align-items: flex-end;
-    
     padding: 20px 10px;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     
     
+    
+}
+
+.card:hover{
+
+    transform: scale(1.02);
+    transition: all 0.5s ease-out;
+    border-radius: 30px;
+    cursor: pointer;
 }
 
 .work1{
      background-image:linear-gradient(to bottom, rgba(61, 61, 62, 0.52), rgba(4, 4, 4, 0.73)), url('/assets/images/dashboard.png');
      
 }
+
+
 .work2{
      background-image:linear-gradient(to bottom, rgba(61, 61, 62, 0.52), rgba(4, 4, 4, 0.73)), url('/assets/images/gillion.png');
      
