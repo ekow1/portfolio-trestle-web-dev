@@ -44,8 +44,8 @@ footer{
 
 
 .social a:hover{
-    background-color: goldenrod;
-    color: white;
+    background-color: rgb(236, 236, 230);
+    color: rgb(15, 14, 14);
     border: none;
     border-radius: 10px;
     transition: all .5s ease-in-out;
