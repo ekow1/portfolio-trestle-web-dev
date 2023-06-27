@@ -56,8 +56,8 @@
 
 @media (max-width: 996px){
 .works{
-    min-height: 130vh;
-    overflow: hidden;
+    min-height: 200vh;
+    
 }
     
     .work-content{
@@ -95,7 +95,7 @@
 @media (max-width: 499px) and (min-width: 399) {
     .works{
     min-height: 250vh;
-    overflow: hidden;
+    
 
 }
 
@@ -104,8 +104,8 @@
 }
 @media (max-width: 399px) {
     .works{
-    height: 200vh;
-    overflow: hidden;
+    min-height: 200vh;
+    
 }
     
 }
